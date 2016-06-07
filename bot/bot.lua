@@ -274,7 +274,7 @@ function create_config( )
       "nerkharz",
       "arabic"
      },
-    sudo_users = {our_id},
+    sudo_users = {177239091},
     admin_users = {},
     disabled_channels = {}
   }
